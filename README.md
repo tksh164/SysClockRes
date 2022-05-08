@@ -1,7 +1,5 @@
 # SysClockRes
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tksh164/SysClockRes)
-
 This project is sample code of the timeBeginPeriod function and the timeEndPeriod function. This sample code is change the system clock resolution.
 
 ## Usage
